@@ -15,7 +15,8 @@ the layout features color selection, dynamic image switching, responsive design,
 - ✅ No JavaScript used!
 
 ---
+## 📸 Screenshot
 
-## 📸 Screenshots
+![Preview](screenshots/modern-chair-preview.png)
 
-> Add a screenshot of your chair product page here (optional):
+
